@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dodoco314&hide_border=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/dodoco314/dodoco314/output/github-snake-dark.svg"
+  />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/dodoco314/dodoco314/output/github-snake.svg"
+  />
+  <img alt="snake" src="https://raw.githubusercontent.com/dodoco314/dodoco314/output/github-snake.svg" />
+</picture>
